@@ -83,6 +83,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -92,8 +94,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -114,9 +116,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -607,6 +612,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tiles_accessory_8: -7938165385972165212
+      tiles_accessory_2: 5318818848238184809
+      tiles_accessory_19: -3974665560203361288
+      tiles_accessory_11: -4183452238275875775
+      tiles_accessory_16: 704033206685811139
+      tiles_accessory_13: 5085028718484002621
+      tiles_accessory_10: -453065068073197269
+      tiles_accessory_12: -8270789116310372618
+      tiles_accessory_0: 2329863082466458310
+      tiles_accessory_15: -7350261225213495674
+      tiles_accessory_7: -4849595301480326022
+      tiles_accessory_9: 8907045965653192245
+      tiles_accessory_1: -1841470983880901526
+      tiles_accessory_18: 3725721683012649341
+      tiles_accessory_3: 2654193659395942743
+      tiles_accessory_5: -71118724567901523
+      tiles_accessory_4: -65701903043487552
+      tiles_accessory_17: 3652766888170416325
+      tiles_accessory_6: -7888154130779496438
+      tiles_accessory_14: -5739800145864794210
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

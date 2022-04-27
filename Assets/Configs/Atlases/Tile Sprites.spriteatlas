@@ -40,6 +40,8 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: -6653136435354540144, guid: dc360e448f32648cdb853c3caddfcadd, type: 3}
@@ -165,5 +167,6 @@ SpriteAtlas:
   - structure_L2_11
   - structure_L2_10
   - structure_L2_12
+  m_RenderDataMap: {}
   m_Tag: Tile Sprites
   m_IsVariant: 0
